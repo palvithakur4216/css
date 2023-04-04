@@ -1,0 +1,41 @@
+.heading
+{
+    font-size:30pt ; 
+    color:black ;
+    font-weight: 200;
+    text-align: center;
+    
+}
+
+.h1
+{
+ text-align: left;
+
+
+}
+.h2
+{
+ text-align: center;
+}
+.h3
+{
+   text-align: justify;
+}
+
+#h4
+{
+    background-color: lightseagreen;
+    color: black;
+}
+.h5
+{
+   background-color: darksalmon;
+}
+
+#right
+{
+    float: right;
+    margin-right: 18em;
+   
+   
+}

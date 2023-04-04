@@ -1,0 +1,65 @@
+body
+{
+    background-color:thistle; 
+    color:white ;  
+}
+
+.p1
+{
+    background-color:aqua;
+    color:black;
+}
+
+.p2
+{
+    background-color:red;
+    color:black;
+}
+
+.p3
+{
+    background-color:lightpink;
+    color:black;
+}
+
+.p4
+{
+    background-color:peru;
+    color:black;
+}
+
+.p5
+{
+    background-color:paleturquoise;
+    color:black;
+}
+
+.all-headings
+{
+    text-align:center;
+    color:white;
+}
+
+.sub-heading
+{
+    color:black;
+}
+
+
+.main-heading
+{
+    font-size:50pt ; 
+    color:blue ;
+}
+
+
+#a1
+{
+background-color:darkgreen;
+}
+
+#a2
+{
+background-color:indianred;
+}
+

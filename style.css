@@ -1,0 +1,22 @@
+body
+{
+    background-color:aqua; 
+    color:white ;  
+}
+h1
+{
+    font-size:o50pt ; 
+    color:red ;
+
+}
+
+.black
+{
+    background-color:black;
+    color:white;
+}
+
+#center
+{
+    text-align:center;
+}

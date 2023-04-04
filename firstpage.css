@@ -1,0 +1,30 @@
+.parent
+{
+    width: 100vw;
+    border: 2px solid black;
+    height: 100vw;
+
+}
+.child1
+{
+    width: 100vw;
+    border: 2px solid black;
+    height: 2vw;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(238, 166, 238);
+}
+.child2
+{
+    width: 100vw;
+    background-image: url();
+    background-size: cover;
+    border: 2px solid black;
+    height: 100vw;
+}
+.border
+{
+background-color: black;
+width: 1vw;
+
+}
